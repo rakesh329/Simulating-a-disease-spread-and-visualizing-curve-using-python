@@ -199,6 +199,11 @@ be on the X axis and the contagious patient count on the Y axis. Your graph shou
 labelled accordingly.
 
 > The output diagrams are provided for different senarious
+![alt text](scenario_A.png)
+
+![alt text](scenario_B.png)
+
+![alt text](scenario_C.png)
 
 
 
