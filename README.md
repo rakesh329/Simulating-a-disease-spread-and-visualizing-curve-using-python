@@ -203,7 +203,7 @@ labelled accordingly.
 
 ![alt text](scenario_B.png)
 
-![alt text](scenario_C.png)
+![alt text](scenario_c.png)
 
 
 
